@@ -1,1 +1,5 @@
-Test-wework/TargetApp/wework.app
+MyWeWork/TargetApp/wework.app
+Pods/
+*/.DS_Store
+MyWeWork.xcworkspace/xcuserdata/*
+MyWeWork.xcworkspace/xcuserdata
